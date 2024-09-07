@@ -1,10 +1,10 @@
 
 
-# Calculator Web App - CodSoft Internship Task-1
+# Calculator Web App - CODE ALPHA 
 
 ## Project Overview
 
-This repository contains the web-based calculator application developed as part of my internship at CodSoft. The project focuses on implementing a simple, interactive calculator that performs basic arithmetic operations and demonstrates fundamental web development skills.
+This repository contains the web-based calculator application developed as part of my internship at Code Alpha. The project focuses on implementing a simple, interactive calculator that performs basic arithmetic operations and demonstrates fundamental web development skills.
 
 ## Features
 
@@ -35,4 +35,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- **CodSoft Internship:** Special thanks to CodSoft for the opportunity.
+- **Code ALPHA Internship:** Special thanks to CodSoft for the opportunity.
