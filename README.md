@@ -35,4 +35,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- **Code ALPHA Internship:** Special thanks to CodSoft for the opportunity.
+- **Code ALPHA Internship:** Special thanks to CodeAlpha for the opportunity.
